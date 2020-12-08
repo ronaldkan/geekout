@@ -9,7 +9,7 @@ const sampleDonations = [
   {
     id: "2",
     unit: "piece",
-    quantity: "2",
+    quantity: "4",
     division: "buangkok",
     name: "Prata",
   },
