@@ -23,7 +23,7 @@ function Example() {
         <div className="container">
           <h1>Welcome to Example!</h1>
           <p>
-            Yo, you're in example page.
+            Yo, you're in example page123132.
           </p>
         </div>
       </section>
